@@ -1,0 +1,6 @@
+- LLM: Claude API (ANTHROPIC_API_KEY in .env)
+- Code: GitHub API for repo management
+- Cloud: AWS CLI for deployments
+- Railway: EUMETSAT weather API, EU-Rail data space
+- Finance: Stripe API for billing
+- Skills: Browser, email, cron for scheduling
